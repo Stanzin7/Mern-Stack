@@ -52,4 +52,4 @@ This project is licensed under the [Choose an Appropriate License] license - see
 
 Are you ready to dive into the exciting world of the MERN stack? Let's begin our 30-day journey to become MERN stack experts! Happy coding!
 
-© 2023 [Your GitHub Username or Organization Name]
+© 2023 [https://github.com/Stanzin7]
